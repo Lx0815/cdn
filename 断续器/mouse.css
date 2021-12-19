@@ -24,17 +24,6 @@ img {
     /* background-color: rgba(73, 177, 245, .2); */
 }
 
-/* 滚动条 */
-::-webkit-scrollbar-thumb {
-    background-color: rgb(255 255 255 / .3);
-    background-image: -webkit-linear-gradient(45deg, rgba(255, 255, 255, 0.1) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.1) 50%, rgba(255, 255, 255, 0.1) 75%, transparent 75%, transparent);
-    border-radius: 2em
-}
-
-::-webkit-scrollbar-corner {
-    background-color: transparent
-}
-
 /*
 作者: Ethan.Tzy
 链接: https://ethant.top/articles/hexo541u/#%E9%BC%A0%E6%A0%87%E6%A0%B7%E5%BC%8F
